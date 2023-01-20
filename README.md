@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Tolmeh
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I am interested in computer science and mainly in database, web development 
+- 🌱 I’m currently learning java,javascript,c,c++,python,sql,..
 
 <!---
 ant0ineLACHAT/ant0ineLACHAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
