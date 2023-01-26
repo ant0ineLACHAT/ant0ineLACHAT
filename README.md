@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tolmeh
+- 👋 Hi, I’m Antoine LACHAT also know as @Tolmeh
 - 👀 I am interested in computer science and mainly in database, web development 
 - 🌱 I’m currently learning java,javascript,c,c++,python,sql,..
 
